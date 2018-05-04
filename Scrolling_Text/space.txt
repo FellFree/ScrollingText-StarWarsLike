@@ -1,0 +1,50 @@
+Books
+The 2nd edition of Getting Started with Processing is here and it's updated for Processing 3. 
+It's now in full color and there's a new chapter on working with data. 
+The 2nd edition of the Processing Handbook is here too. 
+Every chapter has been revised, and new chapters introduce more ways to work with data and geometry. 
+New “synthesis” chapters offer discussion and worked examples of such topics as sketching with code, modularity, and algorithms.
+Processing Books
+» Twitter
+@xiq @shiffman Multiple screens or multiple computers? The fullScreen() function is great for taking over multiple… https://t.co/1IvXkHkLhY about 9 days ago
+2018 fellows @luismn and @mathuramg shared some of the p5.accessibility work they've been doing at the XV Shanghai… https://t.co/EgBBMS4MTg about 14 days ago
+Please watch Aarón and Guillermo who have been leading this important project on @thecodingtrain now!… https://t.co/qg5G3DQ4BT about 20 days ago
+RT @FerFeynman: really amazing?? https://t.co/I4CKuXwfa5 about 20 days ago
+» Github
+benfry committed "prevent Table.sort() from throwing NPE with empty cells" about a day agobenfry committed "Merge pull request #5492 from liquid600pgm/xml-trim-javadoc added javadoc comment for XML#trim()" about 6 days agoliquid600pgm committed "added javadoc comment for XML#trim()" about 6 days agobenfry committed "note about exec() rewrite and two todo items" about 7 days ago
+Donate
+Please join us as a member of the Processing Foundation. We need your help!
+Exhibition
+preview image
+komorebi
+by Leslie Nooteboom
+
+preview image
+Particle Flow
+by NEOANALOG
+
+preview image
+Objectifier
+by Bj?rn Karmann
+
+preview image
+Random Access Memory
+by Ralf Baecker
+
+To see more of what people are doing with Processing, check out these sites:
+
+» CreativeApplications.Net
+» OpenProcessing
+» For Your Processing
+» Processing Subreddit
+» Vimeo
+» Studio Sketchpad
+To contribute to the development, please visit Processing on GitHub to read instructions for downloading the code, building from the source, reporting and tracking bugs, and creating libraries and tools.
+
+Partners
+» Fathom
+» NYU ITP
+» UCLA Design Media Arts
+Contact
+foundation@processing.org
+Processing was initiated by 
